@@ -1,1 +1,1 @@
-# Pills-detection
+Python image processing use case
